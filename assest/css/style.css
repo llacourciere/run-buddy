@@ -124,8 +124,8 @@ footer a {
 
 /* Hero Style End */
 
-/* Steps Style Begin*/
 
+/*Intro Style Start*/
 .intro {
     text-align: center;
     padding: 60px;
@@ -140,7 +140,8 @@ footer a {
     font-size: 20px;
     margin: 0 auto;
 }
-
+/*Intro Style End*/
+/* Steps Style Begin*/
 .steps {
     text-align: center;
     background: #fce138;
@@ -189,6 +190,9 @@ footer a {
 .steps span {
     font-size: 38px;
 }
+/*End Steps Style*/
+
+/*Your Trainers Style*/
 .trainers {
     text-align: center;
     padding: 60px;
